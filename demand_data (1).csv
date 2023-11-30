@@ -1,0 +1,5 @@
+Customer,Latitude,Longitude,Demand
+Customer 1,51.5074,-0.1278,50
+Customer 2,51.5074,-0.1278,75
+Customer 3,52.52,13.405,50
+Customer 4,52.52,13.405,75
